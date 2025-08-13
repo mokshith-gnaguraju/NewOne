@@ -5,6 +5,7 @@ const Footer = () => {
     <div className='footerSection'>
        <div className="bannerBox">
         <img src="assets/footer.png" alt="banner" />
+      <p> Footer End</p>
       </div>
     </div>
   )
